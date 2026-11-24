@@ -1,5 +1,6 @@
-![alt text](<Capture d'écran 2026-11-24 141423.png>)
-
+![alt text](<Capture d'écran 2026-11-24 141701.png>)
+![alt text](<Capture d'écran 2026-11-24 141728.png>)
+![alt text](<Capture d'écran 2026-11-24 142259.png>)
 
 # IoT Maintenance Pipeline
 
