@@ -1,3 +1,6 @@
+![alt text](<Capture d'écran 2026-11-24 141423.png>)
+
+
 # IoT Maintenance Pipeline
 
 Pipeline de streaming qui simule des capteurs industriels et surveille l'état
